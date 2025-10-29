@@ -4,6 +4,9 @@
   @apply bg-[#E0D9D9] font-sans;
 }
 
+.header{
+  @apply bg-[#0BA6DF] py-8 md:py-12 lg:py-16 px-4 md:px-8 shadow-lg
+}
 .system {
   @apply text-4xl md:text-6xl font-bold text-[#F0F0F0] mb-2;
 }
